@@ -20,7 +20,7 @@ export default defineConfig({
     themeConfig: {
         logo: "/logo.svg",
         editLink: {
-            pattern: "https://github.com/ArtusLama/tailwind-underlines/edit/main/docs/:path",
+            pattern: "https://github.com/arthur-paucke/tailwind-underlines/edit/main/docs/:path",
         },
 
         // https://vitepress.dev/reference/default-theme-config
@@ -52,7 +52,7 @@ export default defineConfig({
             },
         ],
 
-        socialLinks: [{ icon: "github", link: "https://github.com/ArtusLama/tailwind-underlines" }],
+        socialLinks: [{ icon: "github", link: "https://github.com/arthur-paucke/tailwind-underlines" }],
     },
 
     vite: {
